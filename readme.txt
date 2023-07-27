@@ -6,6 +6,5 @@ pip install -r requirements.txt
 ---------------------------------------------------------------------------------------------------
 
 
-- Webcam varsayılan olarak 0 (dahili kamera) ayarlanmıştır.
-- Veri seti toplam 250 görüntüden oluşmaktadır.
+- Webcam varsayılan olarak 0 (dahili kamera) ayarlanmıştır..
 - Eğitilmiş modelin ağırlıkları (.weights) ve konfigürasyon (.cfg) dosyaları "model" klasöründedir.
